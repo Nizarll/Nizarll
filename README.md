@@ -1,11 +1,9 @@
-<h1 align="center">Hi 👋, I'm Nizar</h1>
-<h3 align="center">🇲🇦 fullstack developer likes that likes to mess around</h3>
-
-- 🔭 I’m currently working on **a cool multiplayer game**
+<h1 align="center">Nizar Yatim</h1>
+<h3 align="center">🇲🇦 fullstack developer</h3>
 
 - 📫 How to reach me **forsubsofmy@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">About me:</h3>
 <p align="left">
 <a href="https://www.youtube.com/c/nizar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="nizar" height="30" width="40" /></a>
 <a href="https://discord.gg/nizaryt." target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="nizaryt." height="30" width="40" /></a>
