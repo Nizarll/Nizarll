@@ -8,10 +8,8 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Nizarll&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Nizarll&theme=dark&hide_border=false)<br/>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-- 📫 How to reach me **forsubsofmy@gmail.com**
+- 📫 **forsubsofmy@gmail.com**
 
-<h3 align="left">About me:</h3>
 <p align="left">
-<a href="https://www.youtube.com/c/nizar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="nizar" height="30" width="40" /></a>
-<a href="https://discord.gg/nizaryt." target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="nizaryt." height="30" width="40" /></a>
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="nizaryt." height="30" width="40" />nizaryt.</a>
 </p>
