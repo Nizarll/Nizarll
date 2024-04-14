@@ -6,7 +6,7 @@
 
 ---
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Nizarll&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-![](https://github-readme-streak-stats.herokuapp.com/?user=Nizarll&theme=dark&hide_border=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Nizarll&hide=PureBasic&theme=dark&hide_border=false)<br/>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 - 📫 **forsubsofmy@gmail.com**
 - <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="nizaryt." height="30" width="40" />nizaryt.</a>
